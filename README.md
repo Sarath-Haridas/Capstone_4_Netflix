@@ -66,5 +66,5 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 11. Applied different clustering models Kmeans, hierarchical, Agglomerative clustering on data we got the best cluster arrangments
 
 12. Speaking about other different cluster methods, K mean, hierarchical, agglomerative clustering on data, we got the best cluster arrangements.
-13. 
+
 ### **Optimal number of cluster = 3**
